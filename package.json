@@ -1,0 +1,23 @@
+{
+  "name": "@lexogrine/steam-path-finder",
+  "version": "1.0.0",
+  "description": "Steam Path & Games Finder",
+  "main": "./lib/index.js",
+  "module": "lib/index.mjs",
+  "typings": "./lib/index.d.ts",
+  "scripts": {
+    "test": "jest",
+    "build": "tsup tsc/index.ts --format cjs,esm --dts -d lib"
+  },
+  "author": "Lexogrine",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^25.1.0",
+    "@types/winreg": "^1.2.36",
+    "tsup": "^8.5.1"
+  },
+  "dependencies": {
+    "@lexogrine/vdf-parser": "^1.0.0",
+    "registry-js": "^1.16.1"
+  }
+}
