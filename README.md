@@ -41,5 +41,9 @@ console.log(`CS2 is installed at: ${CS2Info?.path}`);
 This project is licensed under the MIT License.
 
 
-### Maintainers
-This project is maintained by [Lexogrine](https://lexogrine.com) ([LHM.gg](https://lhm.gg)).
+### About 
+**Lexogrine** is a premier [**Node.js development company**](https://lexogrine.com/technologies/nodejs-development) and AI software development house, delivering high-end AI, web, and mobile design services to a global clientele. In addition to bespoke development, Lexogrine provides a suite of innovative applications, such as [LHM.gg](https://lhm.gg), designed to transform professional collaboration and streamline industry-specific workflows.
+
+We specialize in cutting-edge AI development, complemented by robust web, mobile, and cloud solutions. Our core tech stack includes TypeScript, Python, LLMs, React, React Native, Node.js, Prisma, Medusa, PyTorch, AWS, and Google Cloud Platform.
+
+With a proven track record spanning over 5 years, Lexogrine has successfully delivered hundreds of projects, empowering businesses and enterprises worldwide with scalable, future-proof technology.
